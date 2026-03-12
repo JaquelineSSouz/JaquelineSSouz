@@ -8,12 +8,10 @@
 Sou estudante da área de Tecnologia da Informação e estou em processo de desenvolvimento profissional na área de TI. Tenho interesse tanto em gestão e governança de tecnologia quanto em programação, buscando compreender como as soluções tecnológicas podem apoiar os objetivos estratégicos das organizações.
 
 ## 🛠️ Tecnologias e ferramentas
-- HTML
-- CSS
+- HTML5
+- CSS3
+- Java Script
 - Git e GitHub
-- VS Code
-- Figma
-- Redes de Computadores
 
 ## 📂 Projetos
 Alguns projetos desenvolvidos durante minha formação:
