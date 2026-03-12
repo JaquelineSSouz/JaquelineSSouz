@@ -1,4 +1,4 @@
-# Olá! Eu sou a Jaqueline 👋
+# Olá! Eu sou a Jaqueline 🌸
 
 🎓 Estudante de Gestão da Tecnologia da Informação  
 💻 Interessada em Programação, Governança de TI e Infraestrutura  
@@ -10,7 +10,7 @@ Sou estudante da área de Tecnologia da Informação e estou em processo de dese
 ## 🛠️ Tecnologias e ferramentas
 - HTML5
 - CSS3
-- Java Script
+- JavaScript
 - Git e GitHub
 
 ## 📂 Projetos
