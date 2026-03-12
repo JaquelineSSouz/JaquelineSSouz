@@ -1,21 +1,31 @@
-# 🌸 Portfólio - Minha Bio
+# Olá! Eu sou a Jaqueline 👋
 
-Este é meu projeto de portfólio desenvolvido com HTML e CSS.
+🎓 Estudante de Gestão da Tecnologia da Informação  
+💻 Interessada em Programação, Governança de TI e Infraestrutura  
+📚 Sempre aprendendo novas tecnologias  
 
-## 📌 Sobre o projeto
-O site contém:
-- Página inicial
-- Seção sobre mim
-- Trabalhos acadêmicos
-- Contato
+## 🚀 Sobre mim
+Sou estudante da área de Tecnologia da Informação e estou em processo de desenvolvimento profissional na área de TI. Tenho interesse tanto em gestão e governança de tecnologia quanto em programação, buscando compreender como as soluções tecnológicas podem apoiar os objetivos estratégicos das organizações.
 
-## 🚀 Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript
+## 🛠️ Tecnologias e ferramentas
+- HTML
+- CSS
+- Git e GitHub
+- VS Code
+- Figma
+- Redes de Computadores
 
-## 🎯 Objetivo
-Praticar organização de pastas e versionamento com Git e GitHub.
+## 📂 Projetos
+Alguns projetos desenvolvidos durante minha formação:
 
----
-Desenvolvido por Jaqueline Santana 💻✨
+- 🌐 Desenvolvimento de páginas web utilizando **HTML e CSS**
+- 🖧 Planejamento de **infraestrutura de rede corporativa**
+- 📊 Projetos acadêmicos voltados para **gestão e governança de TI**
+
+## 📈 Atualmente estudando
+- Lógica de programação
+- Desenvolvimento web
+- Conceitos de infraestrutura de TI
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/jaqueline-santana-aa5572238
