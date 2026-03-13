@@ -5,7 +5,7 @@
 📚 Sempre aprendendo novas tecnologias  
 
 ## 🚀 Sobre mim
-Sou estudante da área de Tecnologia da Informação e estou em processo de desenvolvimento profissional na área de TI. Tenho interesse tanto em gestão e governança de tecnologia quanto em programação, buscando compreender como as soluções tecnológicas podem apoiar os objetivos estratégicos das organizações.
+Sou estudante da área de Tecnologia da Informação e estou em processo de desenvolvimento profissional na área de TI. Tenho interesse tanto em gestão e governança de tecnologia quanto em programação, com foco em desenvolvimento Front-end, buscando criar interfaces funcionais e bem estruturadas.
 
 ## 🛠️ Tecnologias e ferramentas
 - HTML5
@@ -21,9 +21,9 @@ Alguns projetos desenvolvidos durante minha formação:
 - 📊 Projetos acadêmicos voltados para **gestão e governança de TI**
 
 ## 📈 Atualmente estudando
-- Lógica de programação
-- Desenvolvimento web
-- Conceitos de infraestrutura de TI
+- Desenvolvimento Front-end
+- Boas práticas de desenvolvimento web
+- Ferramentas de versionamento com Git e GitHub
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/jaqueline-santana-aa5572238
