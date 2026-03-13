@@ -1,7 +1,7 @@
 # Olá! Eu sou a Jaqueline 🌸
 
 🎓 Estudante de Gestão da Tecnologia da Informação  
-💻 Interessada em Programação, Governança de TI e Infraestrutura  
+💻 Interessada em Programação, Desenvolvimento Front-end e Governança de TI  
 📚 Sempre aprendendo novas tecnologias  
 
 ## 🚀 Sobre mim
